@@ -9,7 +9,6 @@ I work as developer for 10 years now. From HTML in earlier days to React-Native 
 * 🌍  I'm based in Kosice
 * ✉️  You can contact me at [viktor1vojtek@gmail.com](mailto:viktor1vojtek@gmail.com)
 * 🚀  I'm currently working on [Virtual Dom](http://virtualdom.sk)
-* 🧠  I'm learning tRPC
 * 🤝  I'm open to collaborating on interesting projects made with React
 
 ### Skills
