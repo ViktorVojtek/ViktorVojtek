@@ -11,6 +11,8 @@ I work as developer for 10 years now. From HTML in earlier days to React-Native 
 * 🚀  I'm currently working on [Virtual Dom](http://virtualdom.sk)
 * 🤝  I'm open to collaborating on interesting projects made with React
 
+* 🌱 I’m currently learning Svelte
+
 ### Skills
 
 <p align="left">
